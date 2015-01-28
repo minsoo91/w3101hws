@@ -2,7 +2,7 @@
   'use strict';
 
   var sentencify = function (words) {
-    // IMPLEMENT YOUR SOLUTION WITHIN THIS FUNCTION
+    return words.join(' ');
   };
 
   module.exports = sentencify;  // DO NOT CHANGE THIS
